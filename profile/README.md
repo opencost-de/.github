@@ -45,6 +45,8 @@ openCost thus focuses on
 - extension of the EZB for managing and displaying information on 
   publication costs and their coverage at the users institution
 
+For more details recent news and developments visit our web page at [https://opencost.de](https://opencost.de)
+
 <!-- vim: spell spelllang=en_gb bomb
 -->
 
